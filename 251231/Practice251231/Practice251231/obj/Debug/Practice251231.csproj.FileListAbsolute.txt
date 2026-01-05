@@ -1,0 +1,8 @@
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\obj\Debug\Practice251231.csproj.AssemblyReference.cache
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\obj\Debug\Practice251231.csproj.CoreCompileInputs.cache
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\bin\Debug\Practice251231.exe.config
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\bin\Debug\Practice251231.exe
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\bin\Debug\Practice251231.pdb
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\obj\Debug\Practice251231.exe
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\obj\Debug\Practice251231.pdb
+C:\Users\Jun-Soo\unity_practic_cshop\251231\Practice251231\Practice251231\obj\Debug\Practice251231.exe.config
